@@ -27,6 +27,12 @@ Este repositorio contiene mi CV en formato web, creado con un estilo visual retr
 
 ## Vista del proyecto
 
+Puedes ver el CV publicado en GitHub Pages aqui:
+
+```text
+https://yos-mar21.github.io/cv/
+```
+
 El archivo principal es:
 
 ```text
@@ -36,6 +42,7 @@ cv.html
 Tambien incluye:
 
 ```text
+index.html
 styles.css
 ```
 
